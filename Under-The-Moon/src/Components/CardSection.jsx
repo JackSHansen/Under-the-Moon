@@ -1,6 +1,6 @@
 import React from 'react';
 import Card from './Card';
-import './CardSection.module.scss';
+import style from './CardSection.module.scss'
 import img1 from '../Pictures/page_1_img_12.png'
 import img2 from '../Pictures/page_1_img_15.png'
 
@@ -21,7 +21,7 @@ const CardSection = () => {
   ];
 
   return (
-    <div className="card-section-container">
+    <div className= {style.card_section_container}>
       {cardData.map((card, index) => (
         <Card key={index} {...card} />
       ))}

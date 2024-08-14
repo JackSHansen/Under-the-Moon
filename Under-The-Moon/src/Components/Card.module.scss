@@ -1,16 +1,16 @@
-.card-container {
+.card_container {
     width: 50%;
     position: relative;
     margin-bottom: 20px;
   
-    .card-image {
+    .card_image {
       width: 100%;
       height: auto;
       aspect-ratio: 1.41;
       display: block;
     }
   
-    .card-content {
+    .card_content {
       position: absolute;
       bottom: 0;
       left: 0;
@@ -20,18 +20,18 @@
       color: white;
       text-align: center;
   
-      .card-title {
+      .card_title {
         font-size: 24px;
         font-weight: 400;
         margin: 0;
       }
   
-      .card-description {
+      .card_description {
         font-size: 14px;
         margin: 10px 0;
       }
   
-      .card-button {
+      .card_button {
         background-color: rgba(34, 32, 32, 1);
         border: 1px solid white;
         color: white;
