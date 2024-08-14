@@ -1,6 +1,6 @@
 import React from 'react';
 import CardSection from './CardSection';
-import './MainComponent.scss';
+import './MainComponent.module.scss';
 
 const MainComponent = () => {
   return (

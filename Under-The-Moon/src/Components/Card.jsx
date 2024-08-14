@@ -1,5 +1,5 @@
 import React from 'react';
-import './Card.scss';
+import './Card.module.scss';
 
 const Card = ({ title, description, buttonText, imageUri }) => {
   return (
