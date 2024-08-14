@@ -1,0 +1,48 @@
+.card-container {
+    width: 50%;
+    position: relative;
+    margin-bottom: 20px;
+  
+    .card-image {
+      width: 100%;
+      height: auto;
+      aspect-ratio: 1.41;
+      display: block;
+    }
+  
+    .card-content {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      padding: 20px;
+      background-color: rgba(0, 0, 0, 0.5); // Optional for readability
+      color: white;
+      text-align: center;
+  
+      .card-title {
+        font-size: 24px;
+        font-weight: 400;
+        margin: 0;
+      }
+  
+      .card-description {
+        font-size: 14px;
+        margin: 10px 0;
+      }
+  
+      .card-button {
+        background-color: rgba(34, 32, 32, 1);
+        border: 1px solid white;
+        color: white;
+        padding: 10px;
+        font-size: 16px;
+        border-radius: 4px;
+        cursor: pointer;
+        text-align: center;
+        width: 100%;
+        margin-top: 20px;
+      }
+    }
+  }
+  
