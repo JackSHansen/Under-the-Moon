@@ -1,3 +1,4 @@
+import Undertext from './components/Undertext'
 
 import { useState } from 'react'
 import Galleri from './Components/Galleri'
@@ -10,7 +11,7 @@ function App() {
   return (
     <>
       <Header/>
-      
+      <Undertext/>
       <MainComponent/>
       <Galleri/>
       <Footer/>
