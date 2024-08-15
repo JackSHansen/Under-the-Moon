@@ -1,10 +1,10 @@
-import { useState } from 'react'
+import Undertext from './components/Undertext'
 
 function App() {
  
   return (
     <>
-      
+      <Undertext/>
     </>
   )
 }
