@@ -9,6 +9,7 @@ const Card = ({ title, description, buttonText, imageUri }) => {
         alt={title}
         className= {style.card_image}
       />
+      <div className= {style.card_content}>
       <div className="card-content">
         <h2 className= {style.card_title}>{title}</h2>
         <p className= {style.card_description}>{description}</p>
