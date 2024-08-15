@@ -10,9 +10,9 @@ function Undertext() {
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem atque delectus doloribus. Laudantium voluptatem excepturi cupiditate molestiae est quo non, asperiores impedit accusamus mollitia libero alias iusto, hic dicta nulla.
            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid quas laudantium ratione blanditiis excepturi velit quasi dolor cumque molestias dignissimos quis doloremque consequatur, atque soluta nisi. Ipsum necessitatibus laborum voluptas! 
            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem iure cum non eum amet? Aliquid, expedita? Velit officiis sunt, porro ut consequatur a accusamus magni pariatur illo possimus iusto praesentium?
+           Lorem ipsum dolor sit amet consectetur adipisicing elit. Venia
         </p>
-     
-     
+        <button>LÆS MERE</button>
      
       </div>
     </>
