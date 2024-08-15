@@ -1,0 +1,31 @@
+.findHeader {
+    color: #fff;
+    font-family: "Gilda Display", serif;
+    text-align: center;
+    padding-right: 2rem;
+    font-size: 16px;
+    h2 {
+      font-weight: 400;
+    }
+  }
+  
+  .findList {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  
+    .listItem {
+      list-style: none;
+      color: #fff;
+      font-family: "Gilda Display", serif;
+  
+      p {
+        margin: 0;
+      }
+  
+      .findNumbers {
+        padding-left: 0.2rem;
+      }
+    }
+  }
